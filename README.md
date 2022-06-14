@@ -9,6 +9,4 @@ by <a href="mailto:carl.osipov@gmail.com"><b>Carl Osipov</b></a>, based on the m
 | Automatic Differentiation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osipov/odsc-europe-2022/blob/master/Solution_Autodiff_Algorithm.ipynb) 
 
 # [MLOps Engineering at Scale](https://www.amazon.com/Cloud-Native-Machine-Learning-Osipov/dp/1617297763)
-## by Carl Osipov
-
 [![MLOps Engineering at Scale](img/cover.png)
